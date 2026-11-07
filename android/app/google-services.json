@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890048087985",
+    "project_id": "cash-expense-manager",
+    "storage_bucket": "cash-expense-manager.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890048087985:android:3ccaac7bd19a21d8449f90",
+        "android_client_info": {
+          "package_name": "com.example.expense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZUsmz53T3GYNqv_1LpnBlizTYQVYnRtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
